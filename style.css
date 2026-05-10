@@ -51,7 +51,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-.buttonStyle{
+.btnStyle{
     height: 50px;
 
     border: none;
@@ -63,26 +63,8 @@ body{
     cursor: pointer;
 }
 .acButtonStyle{
-    height: 50px;
-
-    border: none;
-    border-radius: 20px;
-    
     background-color: #FF5152;
-    
-    font-size: 1.2em;
-
-    cursor: pointer;
 }
-.arithButtonStyle{
-    height: 50px;
-
-    border: none;
-    border-radius: 20px;
-
+.operatorBtn{
     background-color: #BDBDBD;
-    
-    font-size: 1.2em;
-
-    cursor: pointer;
 }
