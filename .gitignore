@@ -1,2 +1,9 @@
 node_modules/
+src/*.map
+dist/*.map
+*.js.map
+*.log
+Thumbs.db
+*.tmp
+*.bak
 .DS_Store
